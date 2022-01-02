@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @fadil25128
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+clear
+blue='\033[34;1m'
+green='\033[32;1m'
+purple='\033[35;1m'
+cyan='\033[36;1m'
+red='\033[31;1m'
+white='\033[37;1m'
+yellow='\033[33;1m'
+sleep 1
+echo
+toilet -f big -F gay selamat anda kena prank
+echo $green"selamat anda kena prank"
+echo
+sleep 2
+echo $yellow"pilih mana :"
+echo
+echo $cyan"1>stabil jaringan"
+echo
+echo $blue"2>kluar aja"
+echo
+echo $white
+read -p "pilihmana : " bro
+if [ $bro = 1 ] || [ $bro = 1 ]
+then
+clear
+toilet -f big -F gay selamat anda kena prank
+echo $green"stabilkan jaringan"
+ping -s1000 1.1.1.1
+fi
 
-<!---
-fadil25128/fadil25128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->Aaaaaaa
+if [ $bro = 0 ] || [ $bro = 0 ]
+then
+clear
+echo $yellow
+figle "selamat anda"
+echo semile"to be continued"
+exit
+fi
